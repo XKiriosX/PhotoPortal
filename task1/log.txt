@@ -1,3 +1,21 @@
+commit 759982b7f49d67c95b353b349db0778495c74d7b
+Author: Devendorf <tseitlin.pavel99@gmail.com>
+Date:   Sun Feb 11 20:08:33 2018 +0000
+
+    fifth commit
+
+commit 1749e119f3384bc31091dea3045db7428e067ade
+Author: Devendorf <tseitlin.pavel99@gmail.com>
+Date:   Sun Feb 11 20:04:51 2018 +0000
+
+    add.gitignore
+
+commit ddd9b6f838f9d3e76ba52cc2f9447d5307e8cb16
+Author: Devendorf <tseitlin.pavel99@gmail.com>
+Date:   Sun Feb 11 15:34:26 2018 +0000
+
+    third commit
+
 commit acada813a739ca1168b4afaa7e23de285d1050be
 Author: Devendorf <tseitlin.pavel99@gmail.com>
 Date:   Sun Feb 11 14:55:37 2018 +0000
