@@ -1,0 +1,17 @@
+commit acada813a739ca1168b4afaa7e23de285d1050be
+Author: Devendorf <tseitlin.pavel99@gmail.com>
+Date:   Sun Feb 11 14:55:37 2018 +0000
+
+    add .gitignore
+
+commit b9fce4a8d6b566fc221ea4e2db47354f5fa21dbb
+Author: Devendorf <tseitlin.pavel99@gmail.com>
+Date:   Sun Feb 11 13:55:32 2018 +0000
+
+    second commit
+
+commit 4f7ab787a678572dcca83eee62032ebafc3ae5b7
+Author: Devendorf <tseitlin.pavel99@gmail.com>
+Date:   Sun Feb 11 11:58:32 2018 +0000
+
+    first commit
